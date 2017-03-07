@@ -7,5 +7,5 @@ function personConstructor(name) {
   var person = {
     name : "name"
   }
-
 }
+console.log(personConstructor(Bob));
